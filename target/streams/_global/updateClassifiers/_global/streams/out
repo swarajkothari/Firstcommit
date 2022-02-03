@@ -1,4 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/D:/Intellij%20Workspace/XMLParser/"), "xmlparser")...
-[debug] Done updating ProjectRef(uri("file:/D:/Intellij%20Workspace/XMLParser/"), "xmlparser")
+[debug] Updating ProjectRef(uri("file:/D:/Intellij%20Workspace/Firstcommit/"), "firstcommit")...
+[debug] Done updating ProjectRef(uri("file:/D:/Intellij%20Workspace/Firstcommit/"), "firstcommit")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
