@@ -6,7 +6,8 @@ name := "XMLParser"
 
 
 
-// https://mvnrepository.com/artifact/org.apache.spark/spark-core
+// https://mvnrepository.com/artifact/org.apache.spark/spark-coregit status
+
 libraryDependencies += "org.apache.spark" %% "spark-core" % "3.1.2"
 
 // https://mvnrepository.com/artifact/org.apache.spark/spark-sql
